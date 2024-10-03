@@ -1,0 +1,23 @@
+Understanding Credit Risk
+Key Learning Outcomes:
+
+    1 Conceptual Understanding:Learn the fundamental principles of credit scoring, the process of assigning a numerical score to estimate a borrower's creditworthiness.
+        Familiarize yourself with the Basel II Capital Accord, which defines the factors that banks must account for when providing loans. This Accord is essential in setting the standard for credit risk analysis.
+
+    2 Reasoning with Business Context:Understand how credit risk impacts financial decisions and the potential consequences of misjudging creditworthiness.
+
+    3 Data Exploration:Develop familiarity with data related to credit risk. Analyze the provided dataset and understand the structure of customer data, transaction data, and their relationship to credit risk prediction.
+
+Suggested Steps for Task 1:
+
+    1 Define Proxy Variable:Create a proxy variable that categorizes users as high risk (bad) or low risk (good). This is a crucial step for analyzing customers' likelihood of default.
+
+    2 Select Observable Features:Identify features (such as transaction behavior, amounts, and customer history) that correlate strongly with the default variable. These features are important for building an accurate risk model.
+
+    3 Understand the Data Fields:Study the key data fields such as TransactionId, AccountId, Amount, FraudResult, etc., which are relevant for credit scoring. These fields help determine a user's financial behavior and creditworthiness.
+
+    4 Perform Correlation Analysis:  Run correlation analyses to see how different features are related to the likelihood of default. This analysis will guide which variables are most predictive of a user's risk level.
+
+    5 Explore Risk Modelling Techniques:Investigate methods like logistic regression and decision trees for classification, which are commonly used to model credit risk. These techniques will help in understanding the probability of loan default and in building risk prediction models.
+
+    6 Research and Synthesize Information:Make sure to compile your research from the references into actionable insights that will guide your approach to credit scoring. This could include reviewing existing models or learning from case studies on how other financial institutions tackle credit risk.
